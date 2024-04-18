@@ -9,14 +9,14 @@ Customer or market segmentation helps develop more effective investment and pers
 In this project, we segment Indian bank customers using data from more than one million transactions. We extract valuable information from these clusters and build dashboards with the insights. The final outputs can be used to improve products and marketing strategies.
 
 # Methodology
-Define the questions you would like to answer with the data
-Collect the customer dataset
-Clean the data
-Perform exploratory data analysis to have a better understanding of the data
-Perform feature preprocessing
-Train clustering models to segment the data into a selected number of groups
-Conduct cluster analysis to extract insights
-Build dashboards with the insights
+1. Define the questions you would like to answer with the data
+2. Collect the customer dataset
+3. Clean the data
+4. Perform exploratory data analysis to have a better understanding of the data
+5. Perform feature preprocessing
+6. Train clustering models to segment the data into a selected number of groups
+7. Conduct cluster analysis to extract insights
+8. Build dashboards with the insights
 
 # Expected Output
 Dashboards with marketing insights extracted from the segmented customers.
